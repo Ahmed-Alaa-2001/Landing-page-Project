@@ -5,21 +5,8 @@
 
 ## Table of Contents
 
-* [Architecture](#architecture)
 * [About](#about)
 * [Requirements](#requirements)
-* [Resources](#resources)
-
-## Architecture
-
-```
-css
-- styles.css    
-index.html
-js
-- app.js
-README.md
-```
 
 ## About
 
@@ -27,9 +14,7 @@ The HTML page consists of:
 
 *Nav bar ( dynamically created based on the sections of the page )
 
-*Main hero section
-
-*Four sections
+*Four sections At least
 
 *footer
 
@@ -41,7 +26,3 @@ The HTML page consists of:
 *Build the navigation menu
 *Add functionality to distinguish the section in view
 *Add the functionality to scroll to sections
-
-
-## Resources
-Fira Sans font from Google Fonts.
