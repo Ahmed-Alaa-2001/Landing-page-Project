@@ -21,8 +21,12 @@ The HTML page consists of:
 
 ## Requirements
 
-*Start by linking your app.js
+*Start by linking my app.js
+
 *Build out your HTML and at least 3 content sections ( provided in the starter code) [+ added one more section]
+
 *Build the navigation menu
+
 *Add functionality to distinguish the section in view
+
 *Add the functionality to scroll to sections
